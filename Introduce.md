@@ -11,4 +11,4 @@ Chào mừng bạn đến với **Knowledge & Technology Hub** – nơi chia s�
 ## 🤝 Đóng góp
 Nếu bạn có kiến thức hay muốn chia sẻ, hãy cùng nhau đóng góp và xây dựng một cộng đồng kỹ thuật mạnh mẽ!
 
-📩 **Liên hệ**: (Thêm thông tin liên hệ của bạn nếu cần)
+📩 **Liên hệ**: Updating...
