@@ -2,7 +2,7 @@
 # Xin chào! :wave::smiley:
 
 <!--Introduction -->
-Tôi tên là Vương Tuấn Khanh. Tôi là một **Python Developer**. Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn. Hiện tại, tôi đang theo đuổi đam mê nghiên cứu sâu hơn vào lĩnh vực **Machine Learning** cũng như những ứng dụng của nó trong cuộc sống để tạo ra nhiều giá trị hơn.
+Tôi tên là Định Nguyễn. Tôi là một **Senior Embedded Engineer (Automotive)**. Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn. Hiện tại, tôi đang theo đuổi đam mê nghiên cứu sâu hơn vào lĩnh vực **Automotive, IoT, AI, Electronic** cũng như những ứng dụng của nó trong cuộc sống để tạo ra nhiều giá trị hơn.
 
 <!-- Your badges -->
 ![](https://komarev.com/ghpvc/?username=vuongtuankhanh&style=flat)
