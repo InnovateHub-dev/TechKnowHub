@@ -1,6 +1,5 @@
 <h1 align="center"> <b>🚗 Automotive Cybersecurity Career Roadmap 🛣</b></h1>
 <p align="center">
-  <img  width="650" src="roadmap_banner.png" />
 </p>
 
 ## Introduction
@@ -141,10 +140,10 @@ you can grow into roles such as **Automotive Security Analyst**, **Penetration T
 ---
 
 ## 🤝 Contributors
-- [@username](https://github.com/autosecurityy)
+- [@DinhNguyen](https://github.com/InnovateHub-dev/TechKnowHub)
 
 ---
 ## Connect with Us:
-- **Join the Community:** https://nas.io/autosecurityy
-- **LinkedIn:** https://www.linkedin.com/company/autosecurityy1
-- **Instagram:** https://instagram.com/autosecurityy
+- **Join the Community:** 
+- **LinkedIn:** 
+- **Instagram:** 
