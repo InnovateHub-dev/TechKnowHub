@@ -1,12 +1,10 @@
-  Awesome IoT | awesome-iot            {"@context":"https://schema.org","@type":"WebSite","description":"Awesome IoT. A collaborative list of great resources about IoT Framework, Library, OS, Platform","headline":"Awesome IoT","name":"awesome-iot","url":"https://phodal.github.io/awesome-iot/"}            [Skip to the content.](https://phodal.github.io/awesome-iot/#content)
-
 Awesome IoT
 ===========
 
 Awesome IoT. A collaborative list of great resources about IoT Framework, Library, OS, Platform
 -----------------------------------------------------------------------------------------------
 
-[View on GitHub](https://github.com/phodal/awesome-iot)
+[View on GitHub](https://github.com/InnovateHub-dev/TechKnowHub/main/IoT/Awesome_IoT.md)
 
 Awesome IoT ![Awesome](./Awesome IoT _ awesome-iot_files/badge.svg)
 ===================================================================
