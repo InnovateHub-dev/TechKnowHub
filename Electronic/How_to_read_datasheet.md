@@ -89,6 +89,18 @@ ATmega328P datasheet pdf
    - [www.datasheetcatalog.com](https://www.datasheetcatalog.com)  
    - [www.datasheetarchive.com](https://www.datasheetarchive.com)  
 
+3. **Các Hướng Dẫn Chi Tiết Về Đọc Datasheet**
+- [Tapit.vn - Hướng dẫn đọc Datasheet](https://tapit.vn/huong-dan-doc-datasheet-linh-kien-dien-tu-hieu-qua/#google_vignette)  
+- [Điện Tử Tương Lai](https://dientutuonglai.com/huong-dan-doc-datasheet.html)  
+- [Khuenguyencreator](https://khuenguyencreator.com/huong-dan-doc-datasheet-cho-sinh-vien/)  
+- [Mạch Điện Lý Thú](https://machdienlythu.vn/cach-doc-datasheet-cua-linh-kien-dien-tu/)  
+- [Ohay.tv](https://www.ohay.tv/view/huong-dan-doc-datasheet-cho-sinh-vien-dien-tu-va-lap-trinh-nhung/HkajgsMrVl)  
+- [Học ARM](https://hocarm.org/ide-la-gi-cach-doc-datasheet-vi-dieu-khien/)  
+- [Digi-Key - How to Read and Understand Technical Datasheets](https://www.digikey.com/en/maker/tutorials/2024/how-to-read-and-understand-technical-datasheets)  
+- [MicroType - How to Read an Electronics Datasheet](https://www.microtype.io/how-to-read-an-electronics-datasheet/)  
+- [Instructables - How to Read a Datasheet](https://www.instructables.com/HOW-TO-READ-a-DATASHEET/)  
+- [CircuitBasics - How to Read Datasheets and Application Notes](https://www.circuitbasics.com/how-to-read-datasheets-and-application-notes/)  
+
 ### 2.3. Lưu Ý Khi Tìm Kiếm Datasheet
 
 1. **Kiểm tra phiên bản (Version/Revision)**  
